@@ -1,0 +1,14 @@
+{
+  "name": "voidr-desafio-tecnico",
+  "version": "1.0.0",
+  "description": "Desafio técnico Voidr utilizando playwright e typescript",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.5.5"
+  }
+}
