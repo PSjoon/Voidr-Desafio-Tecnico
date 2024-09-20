@@ -1,9 +1,6 @@
 # Automação de Testes com Playwright para Voidr
 
 <div align="center">
-<img width="300" height="300" src="
-https://unicorn-cdn.b-cdn.net/948e57de-abb2-4518-abd0-664c6cce4f6a/logo-voidr-(1).png"></img>
-</div>
 
 ## Descrição
 
