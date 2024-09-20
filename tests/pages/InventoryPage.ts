@@ -7,8 +7,8 @@ export class InventoryPage {
     this.page = page
   }
 
-  async addItemToCart(addToCart: string) {
-    await this.page.click(`text=${addToCart}`)
+  async pageClick(pageClick: string) {
+    await this.page.click(`text=${pageClick}`)
   }
 
   async goToCart() {
