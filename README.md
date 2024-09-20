@@ -2,7 +2,7 @@
 
 <div align="center">
 <img width="300" height="300" src="
-https://media.licdn.com/dms/image/v2/D4D0BAQGiciw4-Dx41g/company-logo_200_200/company-logo_200_200/0/1713842173880/voidrco_logo?e=1735171200&v=beta&t=gUgIRku9YoEP0K1UgpRenSyPgFHahfbpnEJpjh47wBg"></img>
+https://unicorn-cdn.b-cdn.net/948e57de-abb2-4518-abd0-664c6cce4f6a/logo-voidr-(1).png"></img>
 </div>
 
 ## Descrição
