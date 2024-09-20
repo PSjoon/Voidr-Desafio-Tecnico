@@ -1,9 +1,5 @@
 # Automação de Testes com Playwright para Voidr
 
-<video width="600" controls>
-  <source src="./public/apresentação%20de%20resultados%20-%20P.S.JR.mkv" type="video/mp4">
-</video>
-
 ## Descrição
 
 - Este projeto foi desenvolvido como parte de um desafio técnico para a vaga de Test Automation Engineer na Voidr. Utilizando Playwright, foram automatizados testes para a aplicação web Sauce Demo. O objetivo é avaliar habilidades em automação de testes, organização de código e boas práticas de desenvolvimento. Foram realizadas os seguintes testes:
